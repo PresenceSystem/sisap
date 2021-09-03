@@ -1,0 +1,117 @@
+.eyuiform {
+	padding: 0px;
+	margin: 0px;
+	display: block;
+}
+
+.eyuiform .submitButton {
+	font-size: 0.8em;
+	font-family: Arial;
+}
+
+.eyuiform  div.page {
+}
+
+.eyuiform  div.info {
+}
+.eyuiform  div.info h1{
+	font-family: Arial;
+	font-weight: bold;
+}
+
+.eyuiform  div.page div.groups {
+	border: none;	
+}
+
+.eyuiform  div.page div.groups div.group {
+	margin-bottom: 7px;
+	padding: 3px;
+}
+
+.eyuiform  div.page div.groups div.group .group-title {
+	padding: 3px;
+}
+
+.eyuiform  div.page div.groups div.group p.info {
+	color: gray;
+	font-size: 0.9em;
+}
+
+.eyuiform  div.page div.groups div.group ul.fields {
+	list-style: none;
+	padding: 0px;
+	overflow: auto;
+	display: block;
+	border: none;
+}
+
+.eyuiform  div.page div.groups div.group ul.fields li {
+	float: left;
+	display: block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	padding: 3px;
+}
+
+.eyuiform  div.page div.groups div.group .fields li div.descr {
+	font-size: 1em;
+}
+
+.eyuiform  div.page div.groups div.group .fields li  div.checkboxes {
+
+}
+
+.eyuiform  div.page div.groups div.group .fields li  div.checkboxes span.checkbox{
+	margin-right: 10px;
+	padding: 3px;
+
+}
+
+.eyuiform .success {
+	color: green;
+}
+.eyuiform .error {
+	color: darkred;
+}
+.eyuiform  .required
+{
+	color: darkred;
+}
+
+
+.eyuiform
+	input.error
+{
+	color: darkred;
+	background-color: #ffeeee;
+}
+
+.eyuiform
+	input,
+	textarea,
+	select
+{
+	padding: 3px;
+}
+.eyuiform input,
+.eyuiform select
+{
+	height: 25px;
+	padding: 2px;
+}
+.eyuiform label {
+	font-size: 0.8em;
+	padding: 5px;
+	margin: 0px;
+	overflow: visible;
+}
+
+.eyuiform ul.errorresume {
+
+}
+.eyuiform ul.errorresume li{
+
+}
+.eyuiform ul.errorresume li p{
+	color: gray;
+}
